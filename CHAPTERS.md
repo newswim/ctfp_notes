@@ -9,13 +9,13 @@
 - 1.4 Challenges (11)
 
 #### 2 Types and Functions 13
-- 2.1 Who Needs Types? .................... (13)
-- 2.2 Types Are About Composability ............. (14)
-- 2.3 What Are Types? ..................... (16)
-- 2.4 Why Do We Need a Mathematical Model? . . . . . . . (19)
-- 2.5 Pure and Dirty Functions . ................ (22)
-- 2.6 Examples of Types ..... ................ (22)
-- 2.7 Challenges ......... ................ (26)
+- 2.1 Who Needs Types? . . . . . . . . . . . . (13)
+- 2.2 Types Are About Composability. . . . . . (14)
+- 2.3 What Are Types?. . . . . . . . . . . . . (16)
+- 2.4 Why Do We Need a Mathematical Model? . . (19)
+- 2.5 Pure and Dirty Functions . . . . . . . . (22)
+- 2.6 Examples of Types. . . . . . . . . . . . (22)
+- 2.7 Challenges . . . . . . . . . . . . . . . (26)
 
 #### 3 Categories Great and Small 29
 - 3.1 No Objects......................... (29)
