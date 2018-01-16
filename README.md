@@ -8,8 +8,8 @@ As noted, that file was compiled from Bartosz' original blog series, [view it he
 
 ## Intro
 
-The author makes a pun in his introductions, pointing out the fact that we
-software engineer types likely already view our time as a premium, asking
+The author makes a pun in the preface, pointing out how us
+software engineers are likely to already view our time as a premium, asking
 why it is we would want to learn an obscure branch of mathematics with those
 precious fleeting minutes.
 
@@ -57,4 +57,4 @@ See CHAPTERS.md
 
 
 [hmemcpy/milewski-ctfp-pdf]: https://github.com/hmemcpy/milewski-ctfp-pdf
-[view that here]: https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+[view it here]: https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
