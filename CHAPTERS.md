@@ -3,19 +3,19 @@
 ## Part One (3)
 
 #### 1 Category: The Essence of Composition
-- 1.1 Arrows as Functions ..................... (3)
-- 1.2 Properties of Composition ............... (6)
+- 1.1 Arrows as Functions _____________________ (3)
+- 1.2 Properties of Composition _______________ (6)
 - 1.3 Composition is the Essence of Programming (9)
-- 1.4 Challenges .............................. (11)
+- 1.4 Challenges ______________________________ (11)
 
 #### 2 Types and Functions 13
-- 2.1 Who Needs Types? ................... (13)
-- 2.2 Types Are About Composability ...... (14)
-- 2.3 What Are Types? .................... (16)
+- 2.1 Who Needs Types? ___________________ (13)
+- 2.2 Types Are About Composability ______ (14)
+- 2.3 What Are Types? ____________________ (16)
 - 2.4 Why Do We Need a Mathematical Model? (19)
-- 2.5 Pure and Dirty Functions ........... (22)
-- 2.6 Examples of Types .................. (22)
-- 2.7 Challenges ......................... (26)
+- 2.5 Pure and Dirty Functions ___________ (22)
+- 2.6 Examples of Types __________________ (22)
+- 2.7 Challenges _________________________ (26)
 
 #### 3 Categories Great and Small 29
 - 3.1 No Objects ......................... (29)
