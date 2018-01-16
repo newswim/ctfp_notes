@@ -1,7 +1,8 @@
 January 16, 2018
 
-- [ ] create repository for notes and reading logs
-- [ ] read 15 minutes
+- created repository for notes and reading logs
+- read 15 minutes
+- copied chapter outline and then spent about an hour formatting copied text 😒
 
 ---
 
