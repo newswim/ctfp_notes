@@ -1,4 +1,4 @@
-Preface (xiii)
+#### Preface (xiii)
 
 ## Part One (3)
 
@@ -9,58 +9,58 @@ Preface (xiii)
 - 1.4 Challenges (11)
 
 #### 2 Types and Functions 13
-- 2.1 Who Needs Types? .................... 13
-- 2.2 Types Are About Composability ............. 14
-- 2.3 What Are Types? ..................... 16
-- 2.4 Why Do We Need a Mathematical Model? . . . . . . . 19
-- 2.5 Pure and Dirty Functions . ................ 22
-- 2.6 Examples of Types ..... ................ 22
-- 2.7 Challenges ......... ................ 26
+- 2.1 Who Needs Types? .................... (13)
+- 2.2 Types Are About Composability ............. (14)
+- 2.3 What Are Types? ..................... (16)
+- 2.4 Why Do We Need a Mathematical Model? . . . . . . . (19)
+- 2.5 Pure and Dirty Functions . ................ (22)
+- 2.6 Examples of Types ..... ................ (22)
+- 2.7 Challenges ......... ................ (26)
 
 #### 3 Categories Great and Small 29
-- 3.1 No Objects......................... 29
-- 3.2 Simple Graphs....................... 30
-- 3.3 Orders ........................... 30
-- 3.4 Monoid as Set ....................... 31
-- 3.5 Monoid as Category.................... 36
-- 3.6 Challenges......................... 38
+- 3.1 No Objects......................... (29)
+- 3.2 Simple Graphs....................... (30)
+- 3.3 Orders ........................... (30)
+- 3.4 Monoid as Set ....................... (31)
+- 3.5 Monoid as Category.................... (36)
+- 3.6 Challenges......................... (38)
 
 #### 4 Kleisli Categories 41
-4.1 The Writer Category ................... 46
-4.2 Writer in Haskell ..................... 49
-4.3 Kleisli Categories ..................... 52
-4.4 Challenge ......................... 53
+- 4.1 The Writer Category ................... (46)
+- 4.2 Writer in Haskell ..................... (49)
+- 4.3 Kleisli Categories ..................... (52)
+- 4.4 Challenge ......................... (53)
 
 #### 5 Products and Coproducts 55
-- 5.1 Initial Object........................ 56
-- 5.2 Terminal Object ...................... 58
-- 5.3 Duality........................... 59
-- 5.4 Isomorphisms ....................... 60
-- 5.5 Products .......................... 62
-- 5.6 Coproduct ......................... 68
-- 5.7 Asymmetry ........................ 72
-- 5.8 Challenges...... ................... 74
-- 5.9 Bibliography . . . . . ................... 75
+- 5.1 Initial Object........................ (56)
+- 5.2 Terminal Object ...................... (58)
+- 5.3 Duality........................... (59)
+- 5.4 Isomorphisms ....................... (60)
+- 5.5 Products .......................... (62)
+- 5.6 Coproduct ......................... (68)
+- 5.7 Asymmetry ........................ (72)
+- 5.8 Challenges...... ................... (74)
+- 5.9 Bibliography . . . . . ................... (75)
 
 #### 6 Simple Algebraic Data Types 77
-6.1 Product Types ....................... 78
-6.2 Records........................... 82
-6.3 SumTypes......................... 83
-6.4 Algebraof Types ..................... 87
-6.5 Challenges......................... 92
+- 6.1 Product Types ....................... (78)
+- 6.2 Records........................... (82)
+- 6.3 SumTypes......................... (83)
+- 6.4 Algebraof Types ..................... (87)
+- 6.5 Challenges......................... (92)
 
 #### 7 Functors 93
-- 7.1 FunctorsinProgramming................. 96
-- - 7.1.1 The Maybe Functor................ 96
-- - 7.1.2 Equational Reasoning .............. 98
-- - 7.1.3 Optional...................... 101
-- - 7.1.4 Type classes .................... 103
-- - 7.1.5 Functor in C++ .................. 105
-- - 7.1.6 The List Functor ................. 106
-- - 7.1.7 The Reader Functor................ 108
-- 7.2 Functors as Containers .................. 110
-- 7.3 Functor Composition ................... 113
-- 7.4 Challenges......................... 115
+- 7.1 Functors in Programming................. (96)
+- - 7.1.1 The Maybe Functor................ (96)
+- - 7.1.2 Equational Reasoning .............. (98)
+- - 7.1.3 Optional...................... (101)
+- - 7.1.4 Type classes .................... (103)
+- - 7.1.5 Functor in C++ .................. (105)
+- - 7.1.6 The List Functor ................. (106)
+- - 7.1.7 The Reader Functor................ (108)
+- 7.2 Functors as Containers .................. (110)
+- 7.3 Functor Composition ................... (113)
+- 7.4 Challenges......................... (115)
 
 #### 8 Functoriality 117
 - 8.1 Bifunctors ......................... 117
